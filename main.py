@@ -271,4 +271,4 @@ async def my_wallet(interaction: discord.Interaction):
 
 
 # 봇 실행 토큰 입력 (디스코드 개발자 포털에서 발급받은 토큰을 넣으세요)
-bot.run(')
+bot.run(token)
